@@ -1,0 +1,5 @@
+ccxt==4.2.95
+python-telegram-bot==20.8
+python-dotenv
+pandas
+ta-lib
